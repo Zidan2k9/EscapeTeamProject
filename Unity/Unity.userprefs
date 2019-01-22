@@ -1,0 +1,16 @@
+﻿<Properties>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Tank Scripts\TankCharacterScript.cs">
+    <Files>
+      <File FileName="Assets\Zains Stuff\ZainsScripts\mainMenuScript.cs" Line="44" Column="27" />
+      <File FileName="Assets\Zains Stuff\ZainsScripts\optionsScriptCSharp.cs" Line="35" Column="29" />
+      <File FileName="Assets\Zains Stuff\ZainsScripts\StatsScript.cs" Line="38" Column="29" />
+      <File FileName="Assets\Zains Stuff\ZainsScripts\creditsScript.cs" Line="88" Column="4" />
+      <File FileName="Assets\Scripts\Tank Scripts\TankCharacterScript.cs" Line="32" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
